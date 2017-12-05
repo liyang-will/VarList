@@ -1,0 +1,6 @@
+C:\Users\GH\Desktop\demo\Test_VarList\Test_VarList\bin\Debug\Test_VarList.exe.config
+C:\Users\GH\Desktop\demo\Test_VarList\Test_VarList\bin\Debug\Test_VarList.exe
+C:\Users\GH\Desktop\demo\Test_VarList\Test_VarList\bin\Debug\Test_VarList.pdb
+C:\Users\GH\Desktop\demo\Test_VarList\Test_VarList\obj\Debug\Test_VarList.csprojResolveAssemblyReference.cache
+C:\Users\GH\Desktop\demo\Test_VarList\Test_VarList\obj\Debug\Test_VarList.exe
+C:\Users\GH\Desktop\demo\Test_VarList\Test_VarList\obj\Debug\Test_VarList.pdb
